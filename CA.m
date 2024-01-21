@@ -1,5 +1,6 @@
 % FILEPATH: /F:/seamless/Undetermined/CA.m
 % BEGIN: ed8c6549bwf9
+%Cellular Automaton，简称CA
 clc, clear all;
 % END: ed8c6549bwf9
 % 元胞自动机的大小
