@@ -1,6 +1,6 @@
 % FILEPATH: /F:/seamless/Undetermined/CA.m
 % BEGIN: ed8c6549bwf9
-clc, clear,all,close all;
+clc, clear all;
 % END: ed8c6549bwf9
 % 元胞自动机的大小
 rows = 50;
